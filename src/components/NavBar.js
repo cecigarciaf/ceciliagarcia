@@ -30,7 +30,9 @@ function NavBar(){
 <nav className="navbar navbar-expand-lg  text-uppercase fixed-top" id="mainNav">
 <div className="container font-face-montserrat">
 
-
+<a class="navbar-brand" href="#">
+    <img href="#header" src="./logo.png" width="45" height="45" alt="Home"></img>
+  </a>
 
         <NavDropdown id="basic-nav-dropdown" title={ lngs[i18n.resolvedLanguage].nativeName} >
             <NavDropdown.Item style= { Style("en")} id= "English" className= "select languaje" onClick={() => i18n.changeLanguage("en")} ><tx className="topBarText">{lngs["en"].nativeName}</tx></NavDropdown.Item>

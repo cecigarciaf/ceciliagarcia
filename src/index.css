@@ -25,3 +25,7 @@ code {
      url('./fonts/Lato/Lato-Regular.ttf') format("truetype");
     
     }
+
+#spinner {
+ color: rgb(235, 128, 128);
+}

@@ -10,7 +10,7 @@ function Header(){
                 <h1 className="masthead-heading text-uppercase mb-0 font-face-lato ">Cecilia Garcia</h1>
                 <div className="divider-custom divider-light">
                     <div className="divider-custom-line"></div>
-                    <div className="divider-custom-icon"><i className="fas fa-headphones"></i></div>
+                    <div className="divider-custom-icon"><img  src="./logo.png" width="40" height="40" alt="Home"></img></div>
                     <div className="divider-custom-line"></div>
                 </div>
                 <p className="masthead-subheading font-weight-light mb-0">{t('Sound Designer')}</p>

@@ -16,7 +16,7 @@ function Footer(){
                             Buenos Aires, Argentina
                             
                             <br />
-                            {t('Open to travel.')}
+                          
                         </p>
                     </div>
 

@@ -32,7 +32,7 @@ function About(){
         </div>
  
         <div className="text-center mt-4">
-            <a className="btn btn-xl btn-outline-light" href="https://startbootstrap.com/theme/freelancer/">
+            <a className="btn btn-xl btn-outline-light" target= "_blank" href="./CVCeciliaGarciaEng.pdf">
                 <i className="fas fa-download me-2"></i>
                 {t('CV')}
             </a>
